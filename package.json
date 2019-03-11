@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/scass91/news-summary-challenge/issues"
   },
-  "homepage": "https://github.com/scass91/news-summary-challenge#readme"
+  "homepage": "https://github.com/scass91/news-summary-challenge#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
